@@ -1,0 +1,6 @@
+public/adminlte
+public/valitron/*
+public/bootstrap/*
+
+vendor/*
+!vendor/fw

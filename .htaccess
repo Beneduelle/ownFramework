@@ -1,0 +1,6 @@
+AddDefaultCharset utf-8
+RewriteEngine On
+RewriteRule ^(.*)$ public/$1
+
+#this file turn on router functions
+#and also redirect all queries to "public" folder (entry point)
